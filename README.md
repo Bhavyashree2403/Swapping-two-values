@@ -30,7 +30,8 @@ print("Swapped values are:",(surya),(vijay))
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-03-03 152554.png>)
+![Screenshot (320)](https://github.com/Bhavyashree2403/Swapping-two-values/assets/149219738/43042596-5ff8-4287-b913-6bcbe4032563)
+
 
 
 ## RESULT:
